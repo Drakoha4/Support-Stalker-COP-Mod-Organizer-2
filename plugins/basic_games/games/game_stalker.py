@@ -221,7 +221,7 @@ class StalkerSaveGameInfo(BasicGameSaveGameInfo):
 class StalkerGame(BasicGame, mobase.IPluginFileMapper):
     Name = "STALKER"
     Author = "Qudix"
-    Version = "0.5.0"
+    Version = "0.0.1"
     Description = "Adds support for STALKER"
 
     GameName = "STALKER"
